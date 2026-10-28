@@ -1,4 +1,4 @@
-# E-commerce-Data-Analysis w/ Jupiter Notebook and Postgresql
+# E-commerce-Data-Analysis-SQL-and-Python
 
 This project focuses on analyzing e-commerce data using PostgreSQL for data storage and querying, and Python with libraries like Pandas, Psycopg2, Matplotlib, and Seaborn for data manipulation, analysis, and visualization.
 
